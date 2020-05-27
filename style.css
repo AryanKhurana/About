@@ -19,6 +19,7 @@ img {max-width:100%;height:auto;}
 @media(max-width:300px)
 {
 .card{width:70%;}
+  margin:10%;
 }
 .foot{position:relative;background-color:black;padding:1%;top:0px;}
 .foot p{text-align: center;}
