@@ -8,7 +8,7 @@ img {max-width:100%;height:auto;}
     font-size:75%;
     margin:20px;
   }
-  .card{margin:25%;height:auto;max-width:100;width:60%!important;}
+  .card{margin:1% 1% 5% 5%;height:auto;max-width:100;width:60%!important;}
 }
 @media(min-width:1000px)
 {
